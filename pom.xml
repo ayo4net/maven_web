@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.219.141.16:8081/myeze/repository/tesla-releases/</url>
+	      <url>http://18.219.141.16:8081/myeze/repository/tesla-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
